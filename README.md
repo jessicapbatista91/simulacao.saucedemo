@@ -1,2 +1,2 @@
-# simulacao banco original
- Simulação de automação no site do Banco Original em Java utilizando o padrão Page Objects.
+# simulacao site Saucedemo
+ Simulação de automação no site Saucedemo em Java utilizando o Selenium  e JUnit no padrão Page Objects.
